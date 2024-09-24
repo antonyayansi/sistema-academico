@@ -35,7 +35,7 @@ namespace CapaNegocio
         {
             using(SqlConnection conexion = new SqlConnection(cadena))
             {
-                string consulta = "INSERT INTO TCarrera values(CodCarrera=@CodCarrera,Carrera=@NombreCarrera)";
+                string consulta = "INSERT INTO TCarrera values(@CodCarrera, @NombreCarrera)";
                 SqlCommand comando = new SqlCommand(consulta, conexion);
                 comando.Parameters.AddWithValue("@CodCarrera", CodCarrera);
                 comando.Parameters.AddWithValue("@NombreCarrera", NombreCarrera);
@@ -66,9 +66,10 @@ namespace CapaNegocio
         {
             using (SqlConnection conexion = new SqlConnection(cadena))
             {
-                string consulta = "UPDATE TCarrera SET Carrera=@NombreCarrera";
+                string consulta = "UPDATE TCarrera SET Carrera = @NombreCarrera WHERE CodCarrera = @CodCarrera";
                 SqlCommand comando = new SqlCommand(consulta, conexion);
                 comando.Parameters.AddWithValue("@NombreCarrera", NombreCarrera);
+                comando.Parameters.AddWithValue("@CodCarrera", CodCarrera);
                 conexion.Open();
                 byte i = Convert.ToByte(comando.ExecuteNonQuery());
                 conexion.Close();
@@ -81,7 +82,7 @@ namespace CapaNegocio
         {
             using (SqlConnection conexion = new SqlConnection(cadena))
             {
-                string consulta = "SELECT * FROM TCarrera CodCarrera = @CodCarrera";
+                string consulta = "SELECT * FROM TCarrera WHERE CodCarrera = @CodCarrera";
                 SqlCommand comando = new SqlCommand(consulta, conexion);
                 comando.Parameters.AddWithValue("@CodCarrera", CodCarrera);
                 SqlDataAdapter adapter = new SqlDataAdapter(comando);
@@ -89,6 +90,7 @@ namespace CapaNegocio
                 adapter.Fill(tabla);
                 return tabla;
             }
+
         }
     }
 }
