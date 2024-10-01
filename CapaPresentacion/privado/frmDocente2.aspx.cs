@@ -1,19 +1,19 @@
-﻿using CapaNegocio;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
 
+using CapaNegocio;
+using System.Data.SqlClient;
+using System.Configuration;
 
-namespace CapaPresentacion.Privado
+namespace CapaPresentacion.privado
 {
-    public partial class frmDocente : System.Web.UI.Page
+    public partial class frmDocente2 : System.Web.UI.Page
     {
-
         private void Listar()
         {
             Docente Docente = new Docente();

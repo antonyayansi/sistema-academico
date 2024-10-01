@@ -5,7 +5,6 @@ C:\Users\EstudianteUC\Downloads\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegoc
 C:\Users\EstudianteUC\Downloads\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\EstudianteUC\Downloads\SistemaAcademico\CapaNegocio\obj\Debug\CapaNegocio.pdb
 <<<<<<< HEAD
-<<<<<<< HEAD
 C:\Users\rose\Documents\ConstruccionSoftware\CapaNegocio\bin\Debug\CapaNegocio.dll
 C:\Users\rose\Documents\ConstruccionSoftware\CapaNegocio\bin\Debug\CapaNegocio.pdb
 C:\Users\rose\Documents\ConstruccionSoftware\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
@@ -20,7 +19,6 @@ C:\Users\edu\Source\Repos\sistema-academico\CapaNegocio\obj\Debug\CapaNegocio.cs
 C:\Users\edu\Source\Repos\sistema-academico\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\edu\Source\Repos\sistema-academico\CapaNegocio\obj\Debug\CapaNegocio.pdb
 >>>>>>> origin/edu
-=======
 C:\Users\EstudianteUC\Source\Repos\sistema-academico\CapaNegocio\bin\Debug\CapaNegocio.dll
 C:\Users\EstudianteUC\Source\Repos\sistema-academico\CapaNegocio\bin\Debug\CapaNegocio.pdb
 C:\Users\EstudianteUC\Source\Repos\sistema-academico\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
@@ -28,3 +26,9 @@ C:\Users\EstudianteUC\Source\Repos\sistema-academico\CapaNegocio\obj\Debug\CapaN
 C:\Users\EstudianteUC\Source\Repos\sistema-academico\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\EstudianteUC\Source\Repos\sistema-academico\CapaNegocio\obj\Debug\CapaNegocio.pdb
 >>>>>>> origin/Julio
+C:\Users\rose\Documents\ultimo\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\rose\Documents\ultimo\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\rose\Documents\ultimo\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\rose\Documents\ultimo\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\rose\Documents\ultimo\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\rose\Documents\ultimo\CapaNegocio\obj\Debug\CapaNegocio.pdb

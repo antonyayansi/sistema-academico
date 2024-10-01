@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="frmAlumno.aspx.cs" Inherits="CapaPresentacion.privado.frmAlumno" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-    <h3>Mantenimiento de la tabla carrera</h3>
+    <h3>Mantenimiento de la tabla Alumno</h3>
     <p>
         CodAlumno: <asp:TextBox runat="server" Id="txtCodAlumno" />
     </p>

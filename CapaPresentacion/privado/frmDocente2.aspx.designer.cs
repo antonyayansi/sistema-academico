@@ -7,11 +7,11 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace CapaPresentacion.Privado
+namespace CapaPresentacion.privado
 {
 
 
-    public partial class frmDocente
+    public partial class frmDocente2
     {
 
         /// <summary>

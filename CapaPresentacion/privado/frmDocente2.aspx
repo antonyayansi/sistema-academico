@@ -1,6 +1,6 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="frmDocente.aspx.cs" Inherits="CapaPresentacion.Privado.frmDocente" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="frmDocente2.aspx.cs" Inherits="CapaPresentacion.privado.frmDocente2" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-<h3>Mantenimiento de la tabla Docente</h3>
+    <h3>Mantenimiento de la tabla Docente</h3>
 <p>
     CodDocente: <asp:TextBox runat="server" Id="txtCodDocente" />
 </p>
@@ -24,10 +24,9 @@
 </p>
 <p>
     Buscar: <asp:TextBox runat="server" Id="txtBuscar" />
-    <asp:Button Text="Buscar" runat="server" Id="btnBuscar" OnClick="btnBuscar_Click" />
+    <asp:Button Text="Buscar" runat="server" Id="btnBuscar" />
 </p>
 <p>
-    <asp:GridView runat="server" ID="gvDocente"></asp:GridView>
+    <asp:GridView runat="server" ID="gvDocente" OnSelectedIndexChanged="gvDocente_SelectedIndexChanged"></asp:GridView>
 </p>
 </asp:Content>
-

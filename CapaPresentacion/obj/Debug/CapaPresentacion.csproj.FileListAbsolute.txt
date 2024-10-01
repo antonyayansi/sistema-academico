@@ -76,7 +76,6 @@ C:\Users\EstudianteUC\Downloads\SistemaAcademico\CapaPresentacion\obj\Debug\Capa
 C:\Users\EstudianteUC\Downloads\SistemaAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.dll
 C:\Users\EstudianteUC\Downloads\SistemaAcademico\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
 <<<<<<< HEAD
-<<<<<<< HEAD
 C:\Users\rose\Documents\ConstruccionSoftware\CapaPresentacion\bin\CapaPresentacion.dll.config
 C:\Users\rose\Documents\ConstruccionSoftware\CapaPresentacion\bin\CapaPresentacion.dll
 C:\Users\rose\Documents\ConstruccionSoftware\CapaPresentacion\bin\CapaPresentacion.pdb
@@ -233,7 +232,6 @@ C:\Users\edu\Source\Repos\sistema-academico\CapaPresentacion\obj\Debug\CapaPres.
 C:\Users\edu\Source\Repos\sistema-academico\CapaPresentacion\obj\Debug\CapaPresentacion.dll
 C:\Users\edu\Source\Repos\sistema-academico\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
 >>>>>>> origin/edu
-=======
 C:\Users\EstudianteUC\Source\Repos\sistema-academico\CapaPresentacion\bin\CapaPresentacion.dll.config
 C:\Users\EstudianteUC\Source\Repos\sistema-academico\CapaPresentacion\bin\CapaPresentacion.dll
 C:\Users\EstudianteUC\Source\Repos\sistema-academico\CapaPresentacion\bin\CapaPresentacion.pdb
@@ -312,3 +310,7 @@ C:\Users\EstudianteUC\Source\Repos\sistema-academico\CapaPresentacion\obj\Debug\
 C:\Users\EstudianteUC\Source\Repos\sistema-academico\CapaPresentacion\obj\Debug\CapaPresentacion.dll
 C:\Users\EstudianteUC\Source\Repos\sistema-academico\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
 >>>>>>> origin/Julio
+C:\Users\rose\Documents\ultimo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\rose\Documents\ultimo\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\rose\Documents\ultimo\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\rose\Documents\ultimo\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
