@@ -51,6 +51,9 @@
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/About">Acerca de</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Contacto</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/frmCarrera">Carrera</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/privado/frmAlumno">Alumnos</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/privado/frmDocente">Docentes</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/privado/frmAsignatura">Asignatura</a></li>
                     </ul>
                 </div>
             </div>
