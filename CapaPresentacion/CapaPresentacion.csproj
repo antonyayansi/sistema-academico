@@ -125,6 +125,7 @@
     <Content Include="favicon.ico" />
     <Content Include="frmCarrera.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="Privado\frmDocente.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -220,6 +221,13 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Privado\frmDocente.aspx.cs">
+      <DependentUpon>frmDocente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Privado\frmDocente.aspx.designer.cs">
+      <DependentUpon>frmDocente.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
@@ -245,6 +253,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Privado\images\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
